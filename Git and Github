@@ -21,5 +21,9 @@ Intro to the Command Line
 		-ls = list the contents of the current working directory
 		-tab =  auto fill in
 		-up/down arrow = browse pervious commands
-		
+		-git push and pull =  push your changes and pull other peoples changes to your terminal to wrk locally
+		-remote = 
+		- git init = initialize a new git repositry 
+		git commit -a = skips staging area and commits all files 
+		- git add
 	
