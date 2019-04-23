@@ -25,5 +25,5 @@ Intro to the Command Line
 		-remote = 
 		- git init = initialize a new git repositry 
 		git commit -a = skips staging area and commits all files 
-		- git add
+		- git add = add to staging area to prepare for commit 
 	
