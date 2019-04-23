@@ -4,22 +4,22 @@ git
 	like dropbox but with more advanced features
 Repository=project, a place to keeps all files
 Commit=save
-branch=branching off expirementaly
+branch=branching off experimentally
 fork=taking a replica of the repo and putting it on your computer/your own Github page
-	all commints to master will save to the replica
-	still good to make seprate branches even in the fork?
+	all commits to master will save to the replica
+	still good to make separate branches even in the fork?
 pull request= "please take my changes"
 issues=a place to leave a comment about a project
-Terminal is very similliar to the finder 
+Terminal is very similar to the finder 
 Intro to the Command Line
 	Terminal Commands:
 		-help
 		-clear
 		-open . = open finder
-		-cd = change directory > drag over the folder(forked/clone? from Github)>enter>pwd toc onfirm
+		-cd = change directory > drag over the folder(forked/clone? from Github)>enter>pwd to confirm
 		-pwd = print working directory
 		-ls = list the contents of the current working directory
 		-tab =  auto fill in
-		-up/down arrow = browse pervioies commands
+		-up/down arrow = browse pervious commands
 		
 	
